@@ -1,0 +1,12 @@
+-) Books: "Clean code", "The pragmatic programmer", "Behind deep blue", Linux, Python
+-) EPQ
+-) Linux (setup, philosophy, vim(?) etc)
+-) Project Euler
+-) Coding: Binary trees, Huffman, Graph algorithm, CLI apps
+-) Languages: high-level(Python, C++, Java course), low-level(C), web-dev(HTML, CSS, JS)
+-) AI: oxford course and "Behind deep blue"
+-) Contributing to FOSS projects
+-) Student council
+-) Volunteering/Charity (Vauxhall park, National Autism Society)
+-) Educational videos/podcasts (?)
+-) Internship (potentially)
