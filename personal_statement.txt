@@ -1,0 +1,24 @@
+    I wrote my first ever computer program in Pascal about 8 years ago. As for 
+the most programmers, a simple "Hello, World!" opened up a whole new world of
+possibilities. In a few months I coded a more advanced version of the arcade 
+called Space Invaders with an adjustable shooting angle and a few other 
+additional features, which made both me and the 70's proud. 
+
+    After that I have never stopped experimenting with the languages: from back-end
+to front-end, from useful to esoteric, from feature-rich and high-level to the
+ones close to the machine code... The sheer thrill and excitement, which always
+accompanied the influx of new information and challenges, have kept pushing me
+for improvement throughout all these years. 
+
+    I studied in one of the best high schools in the country that specialises
+in maths and computer science. During a 4 year period we covered a lot of
+complex topics, some of which are usually studied in the second and the
+following years of university. Case in point, whilst programming in C we have
+done: AVL trees, Huffman coding, OpenGL rendering and much more. Since C is
+considered a relatively hard to learn programming language and the
+aforementioned tasks were quite complicated, learning new languages had become
+a piece of cake.
+
+(CONCLUSION)
+Nonetheless, the real journey, be it a university course work or a real-world
+application, is only about to begin.
