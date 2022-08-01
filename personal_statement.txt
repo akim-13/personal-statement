@@ -4,11 +4,11 @@ possibilities. In a few months I coded a more advanced version of the arcade
 called Space Invaders with an adjustable shooting angle and a few other 
 additional features, which made both me and the 70's proud. 
 
-    After that I have never stopped experimenting with the languages: from back-end
-to front-end, from useful to esoteric, from feature-rich and high-level to the
-ones close to the machine code... The sheer thrill and excitement, which always
-accompanied the influx of new information and challenges, have kept pushing me
-for improvement throughout all these years. 
+    After that I have never stopped experimenting with the languages: from 
+back-end to front-end, from useful to esoteric, from feature-rich and
+high-level to the ones close to the machine code... The sheer thrill and
+excitement, which always accompanied the influx of new information and
+challenges, have kept pushing me for improvement throughout all these years. 
 
     I studied in one of the best high schools in the country that specialises
 in maths and computer science. During a 4 year period we covered a lot of
@@ -18,6 +18,23 @@ done: AVL trees, Huffman coding, OpenGL rendering and much more. Since C is
 considered a relatively hard to learn programming language and the
 aforementioned tasks were quite complicated, learning new languages had become
 a piece of cake.
+
+    A few years ago I started to be more and more aware about the flip side of
+the unprecedented convenience of the modern world digital technology, that is
+the business model of the big tech companies based on collection of personal
+data for improving their eerily addictive algorithms and later sale to
+advertisers. I could not stay indifferent to such an invasion of personal
+privacy for long, so I started to research. After finding out a lot of great
+alternatives and driven by a yet unbeknownst [Is it possible to be driven by
+something yet unbeknownst?] desire of wanting to look under the hood, I
+completely revolutionised my digital lifestyle. It began with an operating
+system: switching to an open source OS such as Linux allowed me to decompose
+any action that is undertaken inside of it down to the lowest possible level.
+while it was by no means an easy task, which had taken me years to complete,
+it allowed me to fully understand and trust the system I use on a daily basis.
+Not to mention the sheer amount of acquired skill and especially knowledge that
+came with this process, part of which I documented in my EPQ project "WIP EPQ
+project name".
 
 (CONCLUSION)
 Nonetheless, the real journey, be it a university course work or a real-world
