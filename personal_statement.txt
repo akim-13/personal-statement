@@ -1,15 +1,18 @@
-    I wrote my first ever computer program in Pascal about 8 years ago. As for 
-the most programmers, a simple "Hello, World!" opened up a whole new world of
-possibilities. In a few months I coded a more advanced version of the arcade 
-called Space Invaders with an adjustable shooting angle and a few other 
-additional features, which made both me and the 70's proud. 
+    I wrote my first ever computer program in Pascal about 8 years ago. As with
+most programmers, a simple "Hello, World!" opened up a whole new world of
+possibilities. In a few months I coded a more advanced version of the arcade
+game Space Invaders with an adjustable shooting angle and other additional
+features, which made both me and the 70s proud. After that I never stopped
+experimenting with the languages: from back-end to front-end, from useful to
+esoteric, from feature-rich and high-level to the ones close to the machine
+code. The thrill and excitement, which always accompanied the influx of new
+information and challenges, have kept pushing me to improve throughout the
+intervening years. 
 
-    After that I have never stopped experimenting with the languages: from 
-back-end to front-end, from useful to esoteric, from feature-rich and
-high-level to the ones close to the machine code... The sheer thrill and
-excitement, which always accompanied the influx of new information and
-challenges, have kept pushing me for improvement throughout all these years. 
-
+----------------
+(REDO)
+    Studying in a school that specializes in Maths and Computer Science, I was
+able to cover a range of complex topics
     I studied in one of the best high schools in the country that specialises
 in maths and computer science. During a 4 year period we covered a lot of
 complex topics, some of which are usually studied in the second and the
@@ -18,24 +21,51 @@ done: AVL trees, Huffman coding, OpenGL rendering and much more. Since C is
 considered a relatively hard to learn programming language and the
 aforementioned tasks were quite complicated, learning new languages had become
 a piece of cake.
+----------------
 
-    A few years ago I started to be more and more aware about the flip side of
-the unprecedented convenience of the modern world digital technology, that is
-the business model of the big tech companies based on collection of personal
-data for improving their eerily addictive algorithms and later sale to
-advertisers. I could not stay indifferent to such an invasion of personal
-privacy for long, so I started to research. After finding out a lot of great
-alternatives and driven by a yet unbeknownst [Is it possible to be driven by
-something yet unbeknownst?] desire of wanting to look under the hood, I
-completely revolutionised my digital lifestyle. It began with an operating
-system: switching to an open source OS such as Linux allowed me to decompose
-any action that is undertaken inside of it down to the lowest possible level.
-while it was by no means an easy task, which had taken me years to complete,
-it allowed me to fully understand and trust the system I use on a daily basis.
-Not to mention the sheer amount of acquired skill and especially knowledge that
-came with this process, part of which I documented in my EPQ project "WIP EPQ
-project name".
+    I recently became more aware of the flip side of the unprecedented
+convenience of modern world digital technology — the business model of the big
+tech companies based on collection of personal data for improving their eerily
+addictive algorithms and later sale to advertisers. This realization came after
+an extensive research that started with a documentary "The Social Dilemma",
+which goes in depth on the aforementioned issues. After reading "Free Software,
+Free Society" by a computer scientist Richard M. Stallman [I'm aware of his
+ideas, but haven't actually read the book, although I'm planning on doing so in
+the nearest future. This sounds more impressive and appropriate than "watching
+YouTube videos".] I found out about the world of FOSS (Free and Open Source
+Software), which ultimately led me to the creation of an EPQ project called
+"Linux: [the or an?] OS you control", inspired by a genius programmer and the
+co-founder of the operating system itself — Linus Torvalds. In this project I
+show that by looking under the hood [I really like this phrase], i.e.
+meticulously decomposing every undertaken action, it becomes possible for a
+user to control the system, instead of the system controlling the user.
+
+    Moving and studying in the UK for the past year opened up a ton of
+possibilities. Case in point, new like-minded people and an unlimited access to
+English literature allowed me to expand and develop my field of interest in
+Maths and CS beyond anything I could ever dream of. For example, reading "Clean
+Code" by Robert C. Martin and Andrew Hunt's "The Pragmatic Programmer" has
+utterly revolutionised my coding style, so much so that even someone with zero
+programming experience could grasp the main idea and the flow of a program,
+i.e. the code has become a lot more readable and maintainable. "Behind Deep
+Blue", the book about the creation of the first Artificial Intelligence that in
+1997 defeated the world chess champion, has sparked my interest in the field of
+AI and led me to enroll for a two-week summer course in Oxford, where we went in
+depth on the topic of machine learning. Subsequently, I am now considering
+dedicating my future work to this and other CS fields, like cryptocurrencies
+and blockchain, where I already have work experience after completing [better
+verb?] an internship as a consultant in a Swiss company Euratek GmbH (a
+cryptocurrency investment and project development business [this phrase if from
+their website: https://euratek.co/about-us/]). All of this would not have been
+possible without the aid of O'Reilly academic textbooks like "Mastering
+Bitcoin" or Linux and Python guides.
 
 (CONCLUSION)
 Nonetheless, the real journey, be it a university course work or a real-world
 application, is only about to begin.
+
+TODO: 
+- Redo the paragraph about academic topics and link other A-levels
+- Mention project Euler and maybe maths books to show interest in maths.
+- Mention non-academic stuff (student council, volunteering) (potentially in the conclusion)
+- Conclusion
