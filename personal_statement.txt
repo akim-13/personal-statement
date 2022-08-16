@@ -9,19 +9,23 @@ code. The thrill and excitement, which always accompanied the influx of new
 information and challenges, have kept pushing me to improve throughout the
 intervening years. 
 
-----------------
-(REDO)
-    Studying in a school that specializes in Maths and Computer Science, I was
-able to cover a range of complex topics
-    I studied in one of the best high schools in the country that specialises
-in maths and computer science. During a 4 year period we covered a lot of
-complex topics, some of which are usually studied in the second and the
-following years of university. Case in point, whilst programming in C we have
-done: AVL trees, Huffman coding, OpenGL rendering and much more. Since C is
-considered a relatively hard to learn programming language and the
-aforementioned tasks were quite complicated, learning new languages had become
-a piece of cake.
-----------------
+    Before coming to the UK I studied in a school that specializes in Maths and
+Computer Science. It was the place where my programming journey really begun.
+Most of the coding was done in C, some of the more complex topics we covered
+were: AVL trees, Huffman coding, OpenGL object rendering and graph algorithms.
+The latter had especially interested me, so I am currently revisiting this
+topic and trying to tackle the travelling salesman problem and Dijkstra's
+algorithm. Whilst CS is my primary area of interest, I do enjoy solving
+challenging problems in other fields I currently study, namely Economics and
+Maths. For instance, Project Euler is an archive of hundreds of arduous
+programming/mathematical tests, which I like to solve in my free time.
+Likewise, studying Economics helps to gain knowledge about the workings of the
+real world and improves critical thinking skills, thus allowing to see the
+broader picture. It is especially important in my case, as I am planning to
+incorporate the knowledge from all three subjects in order to create a
+successful business in the nearest future. [The last two sentences need
+rephrasing as they sound banal and, in a way, childish, but are in fact true. A
+business is probably the only reason I'm studying Economics :)]
 
     I recently became more aware of the flip side of the unprecedented
 convenience of modern world digital technology — the business model of the big
@@ -50,8 +54,8 @@ programming experience could grasp the main idea and the flow of a program,
 i.e. the code has become a lot more readable and maintainable. "Behind Deep
 Blue", the book about the creation of the first Artificial Intelligence that in
 1997 defeated the world chess champion, has sparked my interest in the field of
-AI and led me to enroll for a two-week summer course in Oxford, where we went in
-depth on the topic of machine learning. Subsequently, I am now considering
+AI and led me to enroll for a two-week summer course in Oxford, where we went
+in depth on the topic of machine learning. Subsequently, I am now considering
 dedicating my future work to this and other CS fields, like cryptocurrencies
 and blockchain, where I already have work experience after completing [better
 verb?] an internship as a consultant in a Swiss company Euratek GmbH (a
@@ -60,12 +64,11 @@ their website: https://euratek.co/about-us/]). All of this would not have been
 possible without the aid of O'Reilly academic textbooks like "Mastering
 Bitcoin" or Linux and Python guides.
 
-(CONCLUSION)
-Nonetheless, the real journey, be it a university course work or a real-world
-application, is only about to begin.
-
-TODO: 
-- Redo the paragraph about academic topics and link other A-levels
-- Mention project Euler and maybe maths books to show interest in maths.
-- Mention non-academic stuff (student council, volunteering) (potentially in the conclusion)
-- Conclusion
+    I firmly believe that physical and mental health are inseparably
+intertwined, thereupon to neglect one would mean to cause an extreme damage to
+the other. Consequently, I am always trying to do something meaningful outside
+the usual academic routine: be it a sport (7 years of tennis and 4 years of
+MMA), a charity/volunteering activity (like a fundraising Night Walk for the
+National Autistic Society), or just helping out the college (I hold the
+position of the Digital Innovator in the Student Council [Less pretentious
+phrasing?]). (*WIP witty last sentence to leave a good impression.*) 
