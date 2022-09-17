@@ -5,37 +5,30 @@ Space Invaders with an adjustable shooting angle and other additional features,
 which made both me and the 70s proud.
 
 Before coming to the UK I studied in a school that specializes in Maths and
-Computer Science. This was where my programming journey began. Most of the
-coding was done in C, but we also covered AVL trees, Huffman coding, OpenGL
-object rendering and graph algorithms. The latter especially interested me, so
-I am currently revisiting this topic by coding Kruskal's algorithm and
-researching the travelling salesman problem. I also enjoy solving challenging
-problems in my other A-levels, Economics and Maths: Project Euler is an archive
+Computer Science. Most of the coding was done in C, some of the more complex
+covered topics were AVL trees, Huffman coding, OpenGL object rendering and
+graph algorithms. The latter especially interested me, so I am currently
+revisiting this topic by coding Kruskal's algorithm and researching the
+travelling salesman problem. I also enjoy solving challenging problems in my
+other A-levels: Economics and Maths. Case in point, Project Euler is an archive
 of hundreds of programming/mathematical tests, which I like to solve in my free
-time; 
----
-studying Economics has helped me to learn about the workings of the real
-world and improve my critical thinking, thus allowing to see the broader
-picture.  I am planning to incorporate the knowledge from all three subjects in
-order to create a successful business. [The last two sentences need rephrasing
-as they sound banal and, in a way, childish, but are in fact true. A business
-is probably the only reason I'm studying Economics :)]
----
+time. Taking economics has greatly helped me to develop my writing skills,
+which I believe to be essential for any individual, as it helps to formulate
+and organize an informed, coherent and sophisticated set of ideas.
+Consequently, it means that writing is the deepest form of thinking.
 
-After watching the documentary The Social Dilemma, I became more aware of the
-problems with the unprecedented convenience of modern world digital technology
-— the business model of big tech companies, based on collecting personal data
-to improve their eerily addictive algorithms and sell it on to advertisers. I
-read Free Software, Free Society by Richard M. Stallman [I'm aware of his
-ideas, but haven't actually read the book, although I'm planning on doing so in
-the nearest future. This sounds more impressive and appropriate than "watching
-YouTube videos".] and I found out about the world of FOSS (Free and Open Source
-Software), which I ultimately made the subject of my EPQ project, "Linux: [the
-or an?] OS you control", inspired by the co-founder of the operating system
-itself — Linus Torvalds. My research demonstrated how by looking ‘under the
-hood’ [I really like this phrase], i.e. meticulously decomposing every
-programming action, it becomes possible for a user to control the system,
-instead of the system controlling the user.
+After watching a documentary "The Social Dilemma", I became more aware of the
+problems with the unprecedented convenience of modern world digital technology.
+Namely the business model of big tech companies, based on collecting personal
+data to improve their eerily addictive algorithms, and later sale to
+advertisers. Coincidentally, A book by Richard M. Stallman "Free Software, Free
+Society" introduced me to the world of FOSS (Free and Open Source Software),
+which I ultimately made the subject of my EPQ — "Linux: an OS you control" —
+[punctuation?] further inspired by the co-founder of the operating system
+itself — Linus Torvalds. My research demonstrated how by looking "under the
+hood", i.e. meticulously decomposing every action undertaken in the OS, it
+becomes possible for a user to control the system, instead of the system
+controlling the user.
 
 I moved to the UK to study last year, which opened a multitude of
 possibilities. Studying alongside like-minded people, and having unlimited
