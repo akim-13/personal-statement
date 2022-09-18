@@ -25,7 +25,7 @@ advertisers. Coincidentally, A book by Richard M. Stallman "Free Software, Free
 Society" introduced me to the world of FOSS (Free and Open Source Software),
 which I ultimately made the subject of my EPQ — "Linux: an OS you control" —
 [punctuation?] further inspired by the co-founder of the operating system
-itself — Linus Torvalds. My research demonstrated how by looking "under the
+itself — Linus Torvalds. My research demonstrated how by "looking under the
 hood", i.e. meticulously decomposing every action undertaken in the OS, it
 becomes possible for a user to control the system, instead of the system
 controlling the user.
@@ -33,20 +33,23 @@ controlling the user.
 I moved to the UK to study last year, which opened a multitude of
 possibilities. Studying alongside like-minded people, and having unlimited
 access to texts written in English allowed me to expand and develop my field of
-interest in Maths and CS. Reading Clean Code by Robert C. Martin and Andrew
-Hunt's The Pragmatic Programmer revolutionised my coding style, so much so that
-even someone with zero programming experience could grasp the main idea and the
-flow of a program, i.e. the code has become a lot more readable and
-maintainable. Behind Deep Blue, describing the creation of the first Artificial
-Intelligence that in 1997 defeated the world chess champion, led me to enroll
-for a two-week AI summer course at the University of Oxford, which covered
-machine learning in depth. I am keen to explore this further, along with other
-emerging fields such as cryptocurrencies and blockchain, building on the work
-experience  I undertook as a consultant in the Swiss cryptocurrency investment
-and project development business Euratek GmbH (a [this phrase if from their
-website: https://euratek.co/about-us/]). All of this would not have been
-possible without the aid of O'Reilly academic textbooks like "Mastering
-Bitcoin" or Linux and Python guides.
+interest in Maths and CS. Reading "Clean Code" by Robert C. Martin and Andrew
+Hunt's "The Pragmatic Programmer" have utterly revolutionised the way I write
+my code, making it more concise, readable, maintainable and efficient. Some of
+the more academic books like Linux and Python guides or "Mastering Bitcoin"
+published by O'Reilly, have tremendously helped me to explore my fields of
+interest way beyond the school curriculum. "Behind Deep Blue", describing the
+creation of the first Artificial Intelligence that in 1997 defeated the world
+chess champion, encouraged me to enroll for a two-week AI summer course at the
+University of Oxford, which covered machine learning in depth and gave me a
+starting point for further exploration. During the last summer I also started
+researching cryptocurrencies and blockchain, which in turn led me to complete a
+two-week internship in Euratek GmbH — a cryptocurrency investment and project
+development business based in Switzerland. My job as an IT consultant gave me
+an essential work experience, an insight on how the big firms operate in the
+real world, but most importantly allowed me to gain a much more extensive
+knowledge of the field by communicating with top notch professionals and
+specialists.
 
 I believe that physical and mental health are intertwined, and am always trying
 to do something meaningful outside my academic routine: be it sport (7 years of
