@@ -6,62 +6,58 @@ exciting thing I know. Having discovered it at the age of 10 by learning Pascal
 at my school’s extracurricular programming club, within just a few months I had
 rapidly progressed from the obligatory “Hello World” to writing my own version
 of the 1970s classic arcade game, “Space Invaders”, complete with an adjustable
-shooting angle and other additional features. 
+shooting angle and custom game mechanics.
 
 As my school in Saint Petersburg specialised in Maths and Computer Science, I
 had ample opportunities to continue to develop and hone my abilities. At first,
 I focused on the challenge of learning the fundamentals of C; although my
 initial progress was slow and hard-won, I gradually came to terms with its
-syntactic rigour, the difference between pointers and references, and the
-intricacies of dynamic memory allocation. I continued to build on this
-foundation by studying object-oriented languages like C++ and Java,
-subsequently implementating an AVL tree from scratch, solidifying my grasp of
-recursion in the process, to then use my newfound understanding of binary trees
-in Huffman coding. By using the OpengGL API I also designed and animated a
-functioning 3D vehicle to extend my knowledge to other CS fields.
+syntactic rigour and later continued to build on this foundation by studying
+object-oriented languages like C++ and Java. In consequence, I implemented an
+AVL tree from scratch, solidifying my grasp of recursion in the process, to
+then use my newfound understanding of binary trees in Huffman coding. By using
+the OpengGL API I also designed and animated a functioning 3D vehicle to extend
+my knowledge to other CS fields.
 
 Coming to the UK last year to continue my education had allowed me to focus on
 the subjects relevant to my future career choice. A-levels in Maths and Further
 Maths gave me a new perspective on the familiar concepts, such as learning the
 relevance of probability distributions and statistical expectations to data
-compression. I also decided to teach myself the Decision Mathematics modules in
-my spare time, which gave me an insight into Graph Theory algorithms, such as
-Prim’s or Kruskal’s, and inspired me to write a version of them in Python.
-Finally, I was able to write dynamic simulations global economic markets by
-combining my knowledge of mathematical models and A-Level Economics.
+compression. Teaching myself modules of Decision Maths, I discovered and
+implemented Graph Theory algorithms (e.g. Prim's and Kruskal's) in Python to
+reinforce my knowledge in practice. Finally, I was able to write dynamic
+simulations of global economic markets by combining my knowledge of
+mathematical models and A-Level Economics.
 
 Like every great technology, computers also give their users unique ways to
 misuse them. Watching a documentary "The Social Dilemma" made me consider the
 downsides of an interconnected global society, which lets big tech companies to
-collect and trade personal data of their users, using it to shape public
-attitudes and opinions. To investigate this further, I read "Free Software,
-Free Society" by Richard M. Stallman, which introduced me to the world of Free
-and open-source software. This became the topic of my EPQ, "Linux: an OS you
-control", in which I demonstrated how by meticulously decomposing every action
-undertaken in the OS, it becomes possible for a user to control the system,
-instead of the system controlling the user.
+collect and trade personal data to shape public opinions and gain more profit.
+To investigate this further, I read "Free Software, Free Society" by Richard M.
+Stallman, which introduced me to the world of Free and Open-Source Software.
+This became the topic of my EPQ, "Linux: an OS you control", in which I
+demonstrated how by meticulously decomposing every action undertaken in the OS,
+it becomes possible for a user to control the system, instead of the system
+controlling the user.
 
 I always strive to grow my knowledge of coding and the algorithms involved
-therein. "Behind Deep Blue", a book about the IBM chess supercomputer that
-defeated the world champion Garry Kasparov in 1997, encouraged me to enrol into
-a two-week summer course on machine learning at the University of Oxford, where
-I studied genetic algorithms and the fundamentals of constructing a deep neural
-network. To improve the quality of my code, I read books like "Clean Code" by
-Robert C. Martin and Andrew Hunt's "The Pragmatic Programmer," putting their
-suggestions into practice to make my work more concise, readable, maintainable,
-and efficient. Last summer, I began to research cryptocurrencies and the
-blockchain technology, which led me to complete a two-week internship at
-Euratek GmbH, a Swiss company providing digital currency investment services.
-Being exposed to the day-to-day operations allowed me to witness first-hand the
-challenges of dealing with the inherently volatile virtual currency markets,
+therein. "Behind Deep Blue", a book about the AI that defeated the world chess
+champion in 1997, encouraged me to enrol into a two-week summer course on AI at
+the University of Oxford, where I studied different types of machine learning
+and the fundamentals of constructing a deep neural network. The books like
+"Clean Code" by Robert C. Martin and Andrew Hunt's "The Pragmatic Programmer"
+have given me valuable practical advice, drastically improving the quality
+of my code, making it more concise and efficient. Last summer, a two-week
+internship in a Swiss digital currency investing firm Euratek GmbH, showed me
+the challenges of dealing with the inherently volatile cryptocurrency markets,
 and the importance of effective software solutions to mitigate the
-unpredictability thereof. 
+unpredictability thereof, giving me invaluable experience as a result. 
 
 I believe that physical and mental health are intertwined, highlighting the
 essential nature of keeping active no matter the academic workload at hand. I
-have been playing tennis for 7 years and have 4 years of MMA experience. I
-greatly enjoy volunteering, having recently coordinated a fundraiser, “Night
-Walk for the National Autistic Society”. Not to mention that I was appointed to
-the position of the Digital Innovator in the Student Council. This has given me
-a great opportunity to help out the college by, for example, administrating and
-improving a local rewards system Epraise.
+played tennis for 7 years and have 4 years of MMA experience. I greatly enjoy
+volunteering, having recently coordinated a fundraiser, “Night Walk for the
+National Autistic Society”. Not to mention that I was appointed to the position
+of the Digital Innovator in the Student Council. This has given me a great
+opportunity to help out the college by, for example, administrating and
+improving a local rewards system "Epraise".
