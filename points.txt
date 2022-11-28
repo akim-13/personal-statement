@@ -1,7 +1,7 @@
 - 01) Books: "Clean code", "The pragmatic programmer", "Behind deep blue", Linux, Python
 - 02) EPQ
 - 03) Linux (setup, philosophy, vim(?) etc)
-- 04) Project Euler
+x 04) Project Euler
 - 05) Coding: Binary trees, Huffman, Graph algorithm, CLI apps
 - 06) Languages: high-level(Python, C++, Java course), low-level(C), web-dev(HTML, CSS, JS)
 - 07) AI: oxford course and "Behind deep blue"
@@ -9,5 +9,5 @@
 - 09) Volunteering/Charity (Vauxhall park, National Autism Society)
 x 10) Educational videos/podcasts (?)
 - 11) Internship 
-- 12) Economics application (business)
+- 12) Economics application
 - 13) Sports (tennis and MMA)
